@@ -6,5 +6,9 @@
 
 
 ### python_basics_02.py
-- vysvetlene zakladne datove typy v pythone (bool, int, float, str, list, tuple, set, dict)
+- zakladne datove typy v pythone (bool, int, float, str, list, tuple, set, dict)
 - rozne varianty formatovania stringov
+
+### python_basics_03.py
+- FOR a WHILE cyklus, enumerate
+- list comprehension, dict comprehension

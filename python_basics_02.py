@@ -1,4 +1,3 @@
-# TODO: vysvetlit list comprehension
 
 
 def list_priklad():
